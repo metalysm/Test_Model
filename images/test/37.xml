@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_images</folder>
+	<filename>37.jpg</filename>
+	<path>D:/models/research/object_detection/test_images/37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>781</width>
+		<height>406</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>koyun</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>26</ymin>
+			<xmax>642</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>
